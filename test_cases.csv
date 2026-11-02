@@ -1,0 +1,17 @@
+id,nilai_tes,nilai_rapor,skor_diharapkan,kategori_diharapkan
+TC01,95,92,80.56,Layak Diterima
+TC02,90,60,80.56,Layak Diterima
+TC03,85,40,50.0,Dipertimbangkan
+TC04,75,82,79.33,Layak Diterima
+TC05,70,70,65.53,Dipertimbangkan
+TC06,60,90,80.56,Layak Diterima
+TC07,55,55,41.72,Belum Layak
+TC08,50,75,56.8,Dipertimbangkan
+TC09,45,45,27.26,Belum Layak
+TC10,30,80,50.0,Dipertimbangkan
+TC11,35,30,19.44,Belum Layak
+TC12,20,20,19.44,Belum Layak
+TC13,100,100,80.56,Layak Diterima
+TC14,0,0,19.44,Belum Layak
+TC15,65,60,58.28,Dipertimbangkan
+TC16,80,35,50.0,Dipertimbangkan
